@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1667741899 source:d:\sem 3\tp minggu 7\asuransi_barang\main.cpp
+	<iostream>
+	"Asuransi_Barang.h"
+
+1667742208 source:d:\sem 3\tp minggu 7\asuransi_barang\asuransi_barang.cpp
+	"Asuransi_Barang.h"
+
+1667741632 d:\sem 3\tp minggu 7\asuransi_barang\asuransi_barang.h
+	<iostream>
+
